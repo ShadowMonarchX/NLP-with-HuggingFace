@@ -1,4 +1,4 @@
-# NLP-Tutorials-with-HuggingFace
+# NLP-with-HuggingFace
 Learn NLP Tutorials with HuggingFace Transformers
 
 # Announcement-on-ML
