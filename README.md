@@ -1,5 +1,3 @@
-Here's a clean and professional rewrite of your `README.md` and `.gitignore` tailored for your GitHub repo: [NLP-with-HuggingFace](https://github.com/ShadowMonarchX/NLP-with-HuggingFace.git).
-
 ---
 
 ### ✅ `README.md`
@@ -129,5 +127,3 @@ Thumbs.db
 ````
 
 ---
-
-Would you also like a `requirements.txt` file generated from the notebooks? I can help create that too.
