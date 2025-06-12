@@ -1,0 +1,33 @@
+transformers>=4.40.0
+accelerate>=0.29.0
+datasets>=2.19.0
+sentencepiece
+spacy>=3.7.0
+beautifulsoup4
+textblob
+mlxtend
+bertviz
+umap-learn
+urllib3
+py7zr
+
+# Custom preprocessing package
+git+https://github.com/laxmimerit/preprocess_kgptalkie.git
+
+# Download English model for spaCy (run manually after install)
+# python -m spacy download en_core_web_sm
+```
+
+---
+
+### ✅ Post-install command (manual)
+
+After installing the packages, you should also run the following to get the English model for spaCy:
+
+```bash
+python -m spacy download en_core_web_sm
+```
+
+---
+
+Let me know if you’d like me to add a `setup.sh` file to automate the virtual environment setup and installation as well.
